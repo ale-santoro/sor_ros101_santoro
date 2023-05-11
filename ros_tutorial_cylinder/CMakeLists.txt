@@ -207,7 +207,7 @@ include_directories(
 
 catkin_install_python(
   PROGRAMS
-  scripts/cylinder_input.py
+  scripts/asg_01_cylinder_input.py
   scripts/radius_squarer.py
   scripts/cylinder_calc.py
   scripts/cylinder_weight_calc.py
